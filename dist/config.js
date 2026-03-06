@@ -1,3 +1,3 @@
 // config.js
-// Pointing to the PHP API in the ../api folder
-const API_BASE_URL = "../api";
+// Pointing to the live PHP API hosted on InfinityFree
+const API_BASE_URL = "https://ezpay-admin.free.nf/api";
