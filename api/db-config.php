@@ -2,10 +2,10 @@
 // db-config.php
 
 // Replace these with your InfinityFree MySQL database credentials
-$host = 'sql113.infinityfree.com'; // MySQL Hostname
-$db   = 'if0_41413351_spro'; // Database Name
-$user = 'if0_41413351'; // MySQL Username
-$pass = 'sproSingh311'; // MySQL Password
+$host = 'sql212.infinityfree.com'; // MySQL Hostname
+$db   = 'if0_41413289_ez'; // Database Name
+$user = 'if0_41413289'; // MySQL Username
+$pass = 'ezSingh311'; // MySQL Password
 $port = '3306';
 
 $dsn = "mysql:host=$host;port=$port;dbname=$db;charset=utf8mb4";
