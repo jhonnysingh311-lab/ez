@@ -2,10 +2,10 @@
 // db-config.php
 
 // Replace these with your InfinityFree MySQL database credentials
-$host = 'YOUR_INFINITYFREE_DB_HOST'; // e.g., sql208.ezyro.com
-$db   = 'YOUR_INFINITYFREE_DB_NAME'; // e.g., ezyro_12345678_database
-$user = 'YOUR_INFINITYFREE_DB_USER'; // e.g., ezyro_12345678
-$pass = 'YOUR_INFINITYFREE_DB_PASS'; // Your VistaPanel password
+$host = 'sql212.infinityfree.com'; // MySQL Hostname
+$db   = 'if0_41413289_ez'; // Database Name
+$user = 'if0_41413289'; // MySQL Username
+$pass = 'ezSingh311'; // MySQL Password
 $port = '3306';
 
 $dsn = "mysql:host=$host;port=$port;dbname=$db;charset=utf8mb4";
