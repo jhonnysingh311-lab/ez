@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit;
 }
 
-require_once 'db_connect.php';
+require_once 'db-config.php';
 
 $input = json_decode(file_get_contents('php://input'), true);
 
